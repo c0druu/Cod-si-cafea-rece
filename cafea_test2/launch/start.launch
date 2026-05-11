@@ -1,0 +1,4 @@
+<launch>
+<node pkg="cafea_test2" type="server_cafea.py" name="server_cafea" output="screen"/>
+<node pkg="cafea_test2" type="client_cafea.py" name="client_cafea" output="screen"/>
+</launch>
