@@ -1,0 +1,7 @@
+# Cafea command pentru drona
+string command
+---
+# Rezultat nu are campuri
+---
+# Feedback simplu despre ce face drona
+string feedback

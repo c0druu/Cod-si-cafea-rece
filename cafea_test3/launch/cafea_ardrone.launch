@@ -1,0 +1,6 @@
+<launch>
+  <include file="$(find ardrone_gazebo)/launch/single_ardrone.launch" />
+
+  <node pkg="cafea_test3" type="server_cafea.py" name="cafea_server" output="screen"/>
+  <node pkg="cafea_test3" type="client_cafea.py" name="cafea_client" output="screen"/>
+</launch>
