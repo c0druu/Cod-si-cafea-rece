@@ -1,0 +1,7 @@
+float32 cafea_front_distance
+float32 cafea_right_distance
+float32 cafea_left_distance
+float32 cafea_command_linear
+float32 cafea_command_angular
+string cafea_action
+string cafea_signature

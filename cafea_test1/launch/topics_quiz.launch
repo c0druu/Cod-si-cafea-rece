@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="CAFEA_TEST1" type="CAFEA_QUIZ.py" name="nod_evitare_modularizat" output="screen">
+    </node>
+</launch>
